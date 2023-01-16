@@ -1,0 +1,5 @@
+.hover:hover{
+    background-color: rgb(255, 69, 103);
+    transition-duration:1s;
+}
+
